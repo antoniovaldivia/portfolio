@@ -40,7 +40,7 @@
       <ul class="menuselector">
         <li><a href="https://www.linkedin.com/in/antonio-valdivia/" target="_blank"><span
               class="material-icons">person</span>LinkedIn</a></li>
-        <li><a href="https://www.behance.com/antoniovaldivia/" target="_blank"><span
+        <li><a href="https://www.behance.net/antoniovaldivia" target="_blank"><span
               class="material-icons">insert_photo</span>Behance</a></li>
         <li><a href="https://www.instagram.com/toneid/" target="_blank"><span
               class="material-icons">camera_alt</span>Instagram</a></li>
@@ -368,7 +368,7 @@
       <li><a href="#" target="_blank"><span class="material-icons">email</span>antonio@valdivia.tv</a></li>
       <li><a href="https://www.linkedin.com/in/antonio-valdivia/"><span class="material-icons">person</span>LinkedIn</a>
       </li>
-      <li><a href="https://www.behance.com/antoniovaldivia/" target="_blank"><span
+      <li><a href="https://www.behance.net/antoniovaldivia" target="_blank"><span
             class="material-icons">insert_photo</span>Behance</a></li>
       <li><a href="https://www.instagram.com/toneid/" target="_blank"><span
             class="material-icons">camera_alt</span>Instagram</a></li>
