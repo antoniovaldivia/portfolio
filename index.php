@@ -365,7 +365,7 @@
   <footer class="footer">
     <h3 class="footerhead">Contact</h3>
     <ul>
-      <li><a href="#" target="_blank"><span class="material-icons">email</span>antonio@valdivia.tv</a></li>
+      <li><a href="mailto:antonio@valdivia.tv" target="_blank"><span class="material-icons">email</span>antonio@valdivia.tv</a></li>
       <li><a href="https://www.linkedin.com/in/antonio-valdivia/"><span class="material-icons">person</span>LinkedIn</a>
       </li>
       <li><a href="https://www.behance.net/antoniovaldivia" target="_blank"><span
