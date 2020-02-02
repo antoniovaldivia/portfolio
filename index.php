@@ -379,8 +379,6 @@
     </ul>
     <h4>I made this!</h4>
     <p>Hand coded by Antonio Valdivia - W3C validated</p>
-
-
     <p>Real-time Bitcoin price data provided by <a href="https://www.coindesk.com/price/bitcoin" target="_blank">
         CoinDesk</a></p>
     <p>2020 - Valdivia.tv</p>
