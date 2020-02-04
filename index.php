@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="description"
-    content="Digital designer, web developer, social media stategist, project manager, unicorn & awesome guy. Here are some of the projects I have worked on:">
+    content="Digital designer, web developer, social media strategist, project manager, unicorn & awesome guy. Here are some of the projects I have worked on:">
   <meta name="author" content="Antonio Valdivia">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="stylesheet" href="css/reset.css">
@@ -23,7 +23,12 @@
   <meta property="og:image:width" content="1064">
   <meta property="og:image:height" content="557">
   <meta property="og:title" content="Antonio Valdivia - Portfolio">
-  <meta property="og:description" content="Digital designer, web developer, social media stategist, project manager, unicorn &amp; awesome guy. Here are some of the projects I have worked on:">
+  <meta property="og:description" content="Digital designer, web developer, social media strategist, project manager, unicorn &amp; awesome guy. Here are some of the projects I have worked on:">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@toneid">
+  <meta name="twitter:title" content="Antonio Valdivia - Portfolio">
+  <meta name="twitter:description" content="Digital designer, web developer, social media strategist, project manager, unicorn & awesome guy. Here are some of the projects I have worked on:">
+  <meta name="twitter:image" content="/img/antonio-valdivia-ipod-og-image.png">
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157522438-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
