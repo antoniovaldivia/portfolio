@@ -19,7 +19,7 @@
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#35b7ff">
   <meta name="theme-color" content="#ffffff">
-  <meta property="og:image" content="/img/antonio-valdivia-ipod-og-image.png">
+  <meta property="og:image" content="https://valdivia.tv/img/antonio-valdivia-ipod-og-image.png">
   <meta property="og:image:width" content="1064">
   <meta property="og:image:height" content="557">
   <meta property="og:title" content="Antonio Valdivia - Portfolio">
@@ -28,7 +28,7 @@
   <meta name="twitter:site" content="@toneid">
   <meta name="twitter:title" content="Antonio Valdivia - Portfolio">
   <meta name="twitter:description" content="Digital designer, web developer, social media strategist, project manager, unicorn & awesome guy. Here are some of the projects I have worked on:">
-  <meta name="twitter:image" content="/img/antonio-valdivia-ipod-og-image.png">
+  <meta name="twitter:image" content="https://valdivia.tv/img/antonio-valdivia-ipod-og-image.png">
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157522438-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
