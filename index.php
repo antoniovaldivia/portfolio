@@ -120,7 +120,7 @@
               target="_blank" class="linkblack">Campaign's tweets</a>
           </li>
         </ul>
-
+        
       </article>
       <article class="promoted yellow">
         <ul class="promotedlayout">
