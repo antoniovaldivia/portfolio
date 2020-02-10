@@ -55,7 +55,7 @@
     </nav>
   </header>
   <main>
-    <section class="masthead yellow">
+    <section class="masthead blue">
       <ul class="mastheadlayout">
         <li class="box first">
           <img src="img/antonio-valdivia-profile-picture.jpg"
@@ -90,7 +90,7 @@
 
         </ul>
       </article>
-      <article class="promoted blue">
+      <article class="promoted green">
         <ul class="promotedlayout">
           <li class="box third">
             <img src="img/powerade-mexican-national-soccer-team-2014.png"
@@ -122,7 +122,7 @@
         </ul>
 
       </article>
-      <article class="promoted green">
+      <article class="promoted yellow">
         <ul class="promotedlayout">
           <li class="box second right">
             <h3>Jeep Mexico</h3>
