@@ -317,7 +317,7 @@
     </section>
     <section class="featured">
       <h2>My favourite movies</h2>
-      <p>On animated GIFs that I made:</p>
+      <p>On animated GIFs that I made in Adobe After Effects:</p>
       <ul class="featuredlayout">
         <!-- Featured project 1 -->
         <li>
