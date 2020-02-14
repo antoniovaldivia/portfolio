@@ -52,7 +52,6 @@
         <li><a href="https://twitter.com/toneid" target="_blank"><span class="fa fa-twitter"></span> Twitter</a></li>
         <li><a href="https://www.instagram.com/toneid/" target="_blank"><span
         class="fa fa-instagram"></span> Instagram</a></li>
-        </li>
       </ul>
     </nav>
   </header>
