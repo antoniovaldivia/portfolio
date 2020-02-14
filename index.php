@@ -8,7 +8,7 @@
   <meta name="description"
     content="Digital designer, web developer, social media strategist, project manager, unicorn & awesome guy. Here are some of the projects I have worked on:">
   <meta name="author" content="Antonio Valdivia">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/style.css">
   <title>Antonio Valdivia - Portfolio</title>
@@ -44,12 +44,14 @@
     <nav aria-label="Primary" class="menubar">
       <ul class="menuselector">
         <li><a href="https://www.linkedin.com/in/antonio-valdivia/" target="_blank"><span
-              class="material-icons">person</span>LinkedIn</a></li>
+              class="fa fa-linkedin-square"></span> LinkedIn</a></li>
         <li><a href="https://www.behance.net/antoniovaldivia" target="_blank"><span
-              class="material-icons">insert_photo</span>Behance</a></li>
+              class="fa fa-behance-square"></span> Behance</a></li>
+        <li><a href="https://www.snapchat.com/add/toneid1" target="_blank"><span class="fa fa-snapchat-ghost"></span> Snapchat</a>
+        </li>
+        <li><a href="https://twitter.com/toneid" target="_blank"><span class="fa fa-twitter"></span> Twitter</a></li>
         <li><a href="https://www.instagram.com/toneid/" target="_blank"><span
-              class="material-icons">camera_alt</span>Instagram</a></li>
-        <li><a href="https://twitter.com/toneid" target="_blank"><span class="material-icons">favorite</span>Twitter</a>
+        class="fa fa-instagram"></span> Instagram</a></li>
         </li>
       </ul>
     </nav>
@@ -370,16 +372,18 @@
   <footer class="footer">
     <h3 class="footerhead">Contact</h3>
     <ul>
-      <li><a href="mailto:antonio@valdivia.tv" target="_blank"><span class="material-icons">email</span>antonio@valdivia.tv</a></li>
-      <li><a href="https://www.linkedin.com/in/antonio-valdivia/"><span class="material-icons">person</span>LinkedIn</a>
+      <li><a href="mailto:antonio@valdivia.tv" target="_blank"><span class="fa fa-envelope"></span> antonio@valdivia.tv</a></li>
+      <li><a href="https://www.linkedin.com/in/antonio-valdivia/"><span class="fa fa-linkedin-square"></span> LinkedIn</a>
       </li>
       <li><a href="https://www.behance.net/antoniovaldivia" target="_blank"><span
-            class="material-icons">insert_photo</span>Behance</a></li>
-      <li><a href="https://www.instagram.com/toneid/" target="_blank"><span
-            class="material-icons">camera_alt</span>Instagram</a></li>
-      <li><a href="https://twitter.com/toneid" target="_blank"><span class="material-icons">favorite</span>Twitter</a>
+            class="fa fa-behance-square"></span> Behance</a></li>
+      <li><a href="https://www.snapchat.com/add/toneid1" target="_blank"><span class="fa fa-snapchat-ghost"></span> Snapchat</a>
       </li>
-      <li><a href="https://github.com/antoniovaldivia/portfolio" target="_blank"><span class="material-icons">swap_vertical_circle</span>GitHub</a>
+      <li><a href="https://twitter.com/toneid" target="_blank"><span class="fa fa-twitter"></span> Twitter</a>
+      </li>      
+      <li><a href="https://www.instagram.com/toneid/" target="_blank"><span
+            class="fa fa-instagram"></span> Instagram</a></li>
+      <li><a href="https://github.com/antoniovaldivia/portfolio" target="_blank"><span class="fa fa-github"></span> GitHub</a>
       </li>
     </ul>
     <h4>I made this!</h4>
